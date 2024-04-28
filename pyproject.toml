@@ -1,0 +1,14 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "aichaoxy", email = "hadoop90@gmail.com"},
+]
+dependencies = [
+    "pelican[markdown]>=4.9.1",
+]
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "MIT"}
+
