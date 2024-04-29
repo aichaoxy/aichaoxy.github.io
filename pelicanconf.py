@@ -1,6 +1,6 @@
 AUTHOR = 'aichaoxy'
 SITENAME = "aichaoxy's blog"
-SITEURL = "https://aichaoxy.github.io"
+SITEURL = ""
 SITETITLE = "aichaoxy's blog"
 SITESUBTITLE = "Software Development"
 SITEDESCRIPTION = "aichaoxy's Thoughts and Writings"
