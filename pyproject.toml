@@ -1,6 +1,6 @@
 [project]
-name = "aichaoxys-blog"
-version = "0.1.0"
+name = ""
+version = ""
 description = ""
 authors = [
     {name = "aichaoxy", email = "hadoop90@gmail.com"},

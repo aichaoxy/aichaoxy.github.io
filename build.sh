@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -e
+set -xe
 python -m pip install --upgrade pip
 pip3 install pdm
 pdm install
